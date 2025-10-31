@@ -4,6 +4,8 @@
 This project implements a **Customer Data Platform (CDP)** on **Microsoft Azure**, integrating multiple Azure services such as **Data Factory**, **Databricks**, and **Data Lake Storage**.  
 The goal is to create a unified, analytics-ready **customer database** enriched with **KPIs** and data sourced from **external APIs**.
 
+<img width="1047" height="424" alt="Image" src="https://github.com/user-attachments/assets/0128a11f-2eed-4fd7-a6f4-81db80fde4bd" />
+
 ---
 
 ## ⚙️ Architecture
