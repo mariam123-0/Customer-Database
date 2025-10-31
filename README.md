@@ -357,4 +357,10 @@ customer_registration_trends = df_customers \
 This solution creates a **single source of truth** for customer analytics, enabling:
 - Data-driven decision making  
 - Improved marketing segmentation  
-- Real-time performance tracking via automated KPIs  
+- Real-time performance tracking via automated KPIs
+
+
+## 📊 DashBoard 
+<img width="1301" height="720" alt="Image" src="https://github.com/user-attachments/assets/02192049-677d-4761-8da0-2e59459adb6f" />
+
+<img width="1328" height="732" alt="Image" src="https://github.com/user-attachments/assets/f54422bf-0b70-43d8-a144-084f122a355a" />
