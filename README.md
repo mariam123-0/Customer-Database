@@ -161,8 +161,10 @@ The curated data is integrated with **Power BI** or **Azure Synapse Analytics** 
 - **Power BI / Synapse Analytics** – Data visualization and analytics  
 
 ```python
-[notebook]()
+
 ```
+
+
 ---
 
 ## 🎯 Outcome
